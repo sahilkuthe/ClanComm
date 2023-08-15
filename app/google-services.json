@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "99038329771",
+    "project_id": "chatchat4-ca79e",
+    "storage_bucket": "chatchat4-ca79e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:99038329771:android:63ee8cf90936dbef2a70ee",
+        "android_client_info": {
+          "package_name": "com.thegreatsahil.clancomm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "99038329771-he4i0clsu56k5lqp1q7srtpd1kiv425i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlDSPEWC3wZCmqjxVTp-HEdVwBAprLxwI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "99038329771-he4i0clsu56k5lqp1q7srtpd1kiv425i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
